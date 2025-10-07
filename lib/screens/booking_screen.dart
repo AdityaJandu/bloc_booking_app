@@ -18,7 +18,7 @@ class BookingScreen extends StatelessWidget {
           BookingBloc(TourismRepositoryImpl())..add(FetchPackages()),
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Nestafar Package Booking'),
+          title: const Text('Tour Booking'),
           backgroundColor: Colors.teal,
           foregroundColor: Colors.white,
         ),
