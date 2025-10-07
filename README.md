@@ -53,11 +53,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/nestafar-booking-app.git
+    git clone https://github.com/AdityaJandu/bloc-booking-app.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd nestafar-booking-app
+    cd bloc-booking-app
     ```
 3.  **Install dependencies:**
     ```sh
