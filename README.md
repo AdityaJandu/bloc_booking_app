@@ -13,7 +13,7 @@ The application is built entirely with mock data, requiring no external API inte
 
 | Package Selection                                                                   | Itinerary Customization                                                             | Booking Confirmation                                                                |
 | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-|<img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 39" src="https://github.com/user-attachments/assets/7b498b97-a0f3-4cd6-8d67-4461f762b00b" /> | <img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 28" src="https://github.com/user-attachments/assets/f3b12d0b-7397-4af4-9432-b95c489539d6" /> |  <img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 16" src="https://github.com/user-attachments/assets/f38f4b7f-61f4-4957-a167-fba45f04b98a" />
+|<img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 39" src="https://github.com/user-attachments/assets/f3b12d0b-7397-4af4-9432-b95c489539d6" /> | <img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 28" src="https://github.com/user-attachments/assets/7b498b97-a0f3-4cd6-8d67-4461f762b00b" /> |  <img width="250" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-10-08 at 01 04 16" src="https://github.com/user-attachments/assets/f38f4b7f-61f4-4957-a167-fba45f04b98a" />
 
 -----
 
