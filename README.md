@@ -53,11 +53,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/AdityaJandu/bloc-booking-app.git
+    git clone https://github.com/AdityaJandu/bloc_booking_app.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd bloc-booking-app
+    cd bloc_booking_app
     ```
 3.  **Install dependencies:**
     ```sh
