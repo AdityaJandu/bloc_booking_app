@@ -69,7 +69,7 @@ To get a local copy up and running, follow these simple steps.
     ```
 5.  **Run the tests:**
     ```sh
-    flutter test
+    flutter test test/bloc/booking_bloc_test.dart
     ```
 
 -----
